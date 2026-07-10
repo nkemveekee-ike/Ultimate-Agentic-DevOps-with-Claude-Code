@@ -1,0 +1,2 @@
+[2026-07-10T00:51:52Z] Terraform command executed: terraform validate
+[2026-07-10T00:51:52Z] Terraform command executed: cd /c/Users/hp/Ultimate-Agentic-DevOps-with-Claude-Code && echo '{"tool_input":{"command":"terraform validate"}}' | bash .claude/hooks/post-tool-logger.sh 2>&1; echo "EXIT: $?"; ls -la .claude/deploy.log 2>&1
